@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Invite Bot](https://discord.com/oauth2/authorize?client_id=989598165399400518&permissions=412585609296&scope=applications.commands+bot)
 
 ## Getting Started
 
