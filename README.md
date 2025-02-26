@@ -23,11 +23,15 @@ Welcome to the project, a dedicated rp bot for your role-playing world, very ric
 
 ## Get Started
 {% stepper %}
-{% step %} ### Invite the bot
+{% step %}
+### Invite the bot
+
 [Click here, to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=989598165399400518&permissions=412585609296&scope=bot+applications.commands)
 {% endstep %}
 
-{% step %} ### Your guide
+{% step %}
+### Your guide
+
 Your first guide to learn about the bot, is using `/get-started` command, a dedicated command for you to start your journey of building the RP of your dreams.
 ![/get-started](https://i.imgur.com/p1emsA8.png)
 {% endstep %}
